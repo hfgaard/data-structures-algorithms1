@@ -1,0 +1,29 @@
+{
+  "name": "data-structures-algorithms1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfgaard/data-structures-algorithms1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hfgaard/data-structures-algorithms1/issues"
+  },
+  "homepage": "https://github.com/hfgaard/data-structures-algorithms1#readme",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-mocha": "^2.1.2",
+    "jshint-stylish": "^2.0.1"
+  }
+}
