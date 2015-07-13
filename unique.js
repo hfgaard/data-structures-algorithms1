@@ -1,5 +1,5 @@
 var unique = function(array) {
-  if (array === null) {
+  if (array.length === 0) {
     return null;
   }
   var array2 = [];
